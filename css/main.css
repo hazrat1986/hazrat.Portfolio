@@ -652,4 +652,10 @@ textarea:focus {
   text-decoration: none;
  
 }
+.portfoliopic{
+  width: 300px;
+  height: 300px;
+  margin-left: 27%;
+  margin-bottom:4%;
+}
 
